@@ -1,14 +1,5 @@
 # TRACKTOR
 
-**TRACKTOR** is a simple time-tracking and expense-logging app for contractors, inspired by the structure of Harvest.
+**TRACKTOR** is a contractor-focused time tracking, job management, and expense logging application developed by Starlight Lab LLC.
 
-## Features (v1)
-- Track time per job
-- Add clients and jobs
-- Log notes and hours
-- Attach receipt images (coming in v2)
-- Export timesheets
-
----
-
-Built with ❤️ by Starlight Lab.
+The goal of TRACKTOR is to provide independent contractors, property managers, maintenance teams, and field-service businesses with a simple way to track labor, expenses, project notes, receipts, and job profitability from a mobile device.
